@@ -1,0 +1,23 @@
+.show-cart {
+    float: right;
+}
+
+.cart-img {
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+}
+
+.cartImg-checkout {
+    position: relative;
+}
+
+.cart-info {
+    position: absolute;
+    left: 132px;
+    top: 8px;
+}
+
+.cart {
+    background-color: #FFF;
+}
